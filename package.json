@@ -1,0 +1,19 @@
+{
+  "name": "side-effect",
+  "version": "0.0.1",
+  "description": "处理各类副作用",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knowstoper/side-effect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knowstoper/side-effect/issues"
+  },
+  "homepage": "https://github.com/knowstoper/side-effect#readme"
+}
